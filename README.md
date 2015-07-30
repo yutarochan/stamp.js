@@ -1,2 +1,2 @@
 # stamp.js
-Quick and dirty API for sticker fun on your own blog or website.
+LINE and Kakao Talk like stamps, now for the web!
