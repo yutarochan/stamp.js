@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "sheetID": "line01",
+        "name": "Example Stampsheet",
+        "description": "A sample stampsheet format used by the stamp.js framework.",
+        "author": "Yuya Jeremy Ong",
+        "date": "07-30-2015"
+    },
+    "stamps": {
+        "happy": { "base64": "" },
+        "sad": { "base64": "" }
+    }
+}
